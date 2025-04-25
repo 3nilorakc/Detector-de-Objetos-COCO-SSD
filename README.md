@@ -65,7 +65,7 @@ Um ENORME agradecimento a:
 
 Para dúvidas, sugestões ou relatos de problemas, entre em contato:
 
-E-mail: seu-email@exemplo.com
+E-mail: kcoraline11@gmail.com
 Website: www.exemplo.com/detector-objetos
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
