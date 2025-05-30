@@ -1,66 +1,72 @@
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-#      DETECTOR DE OBJETOS COCO-SSD v1.0
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-#      (c) 2023 - TODOS OS DIREITOS RESERVADOS
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# 🎯 Detector de Objetos COCO-SSD v1.0
 
-## SOBRE ESTE PROGRAMA FANTÁSTICO
+<p align="center">
+  <strong>(c) 2023 - Todos os direitos reservados</strong>  
+</p>
 
-Bem-vindo ao DETECTOR DE OBJETOS COCO-SSD, um programa REVOLUCIONÁRIO
-que utiliza a mais AVANÇADA tecnologia de INTELIGÊNCIA ARTIFICIAL
-para identificar objetos em suas imagens!
+---
 
-Este software INCRÍVEL funciona DIRETAMENTE no seu navegador web,
-sem necessidade de instalação ou configuração complicada!
+## 📌 Sobre este programa
 
-## REQUISITOS DO SISTEMA
+Bem-vindo ao **Detector de Objetos COCO-SSD**!  
+Um programa revolucionário que utiliza tecnologia avançada de **Inteligência Artificial** para identificar objetos em suas imagens diretamente no navegador — sem instalação, sem complicações!
 
-* Navegador web MODERNO (Chrome, Firefox, Edge, Safari)
-* Conexão com a Internet para carregar o modelo
-* 64MB de RAM (recomendado 128MB para melhor desempenho)
-* Monitor colorido com resolução mínima de 800x600 pixels
+---
 
-## COMO UTILIZAR ESTE PROGRAMA MARAVILHOSO
+## 💻 Requisitos do sistema
 
-1. INICIE o programa abrindo o arquivo "index.html" em seu navegador
-2. AGUARDE o carregamento do modelo de IA (pode levar alguns segundos)
-3. CLIQUE no botão "Selecionar Imagem" ou ARRASTE uma imagem para a área indicada
-4. OBSERVE enquanto o programa MAGICAMENTE detecta os objetos em sua imagem!
-5. MARAVILHE-SE com as caixas coloridas e porcentagens de confiança!
+- Navegador moderno (Chrome, Firefox, Edge, Safari)
+- Conexão com a internet para carregar o modelo
+- 64MB de RAM (recomendado: 128MB)
+- Resolução mínima de 800x600 pixels
 
-## CARACTERÍSTICAS ESPETACULARES
+---
 
-* Detecção de 80 TIPOS DIFERENTES de objetos!
-* Interface MODERNA e AMIGÁVEL!
-* Processamento LOCAL - suas imagens NÃO são enviadas para a nuvem!
-* Exibição de PORCENTAGENS DE CONFIANÇA para cada objeto detectado!
-* Suporte para ARRASTAR E SOLTAR imagens!
-* Design RESPONSIVO que funciona em QUALQUER dispositivo!
+## 🚀 Como utilizar
 
-## TECNOLOGIAS UTILIZADAS
+1. Abra o arquivo `index.html` em seu navegador
+2. Aguarde o carregamento do modelo de IA
+3. Clique em **Selecionar Imagem** ou **arraste** uma imagem para a área indicada
+4. Veja a mágica acontecer: objetos detectados automaticamente!
+5. Admire as caixas coloridas com **porcentagens de confiança** para cada objeto 🎉
 
-Este programa utiliza as seguintes tecnologias de PONTA:
+---
 
-* TensorFlow.js - A biblioteca de IA mais AVANÇADA para navegadores!
-* COCO-SSD - Um modelo PRÉ-TREINADO para detecção de objetos!
-* HTML5 - A linguagem de marcação mais MODERNA da web!
-* CSS3 - Para estilos INCRÍVEIS e RESPONSIVOS!
-* JavaScript - A linguagem de programação mais VERSÁTIL da web!
+## ✨ Características
 
-## PROBLEMAS CONHECIDOS
+- Detecta até **80 tipos diferentes de objetos**
+- Interface **moderna** e **amigável**
+- Processamento **local** — suas imagens **nunca saem do seu computador**
+- Exibição de **porcentagens de confiança** por detecção
+- Suporte a **arrastar e soltar imagens**
+- Design **responsivo** para qualquer dispositivo
 
-* Em computadores MUITO ANTIGOS, o processamento pode ser LENTO
-* Algumas imagens MUITO COMPLEXAS podem causar detecções imprecisas
-* O modelo pode confundir objetos SEMELHANTES entre si
+---
 
-## AGRADECIMENTOS ESPECIAIS
+## 🧠 Tecnologias utilizadas
 
-Um ENORME agradecimento a:
+- [TensorFlow.js](https://www.tensorflow.org/js) — IA diretamente no navegador!
+- COCO-SSD — modelo pré-treinado para detecção de objetos
+- HTML5, CSS3 e JavaScript — o trio moderno da web!
 
-* Equipe do TensorFlow por criar esta biblioteca INCRÍVEL
-* Comunidade de IA por tornar estes modelos ACESSÍVEIS a todos
-* VOCÊ por utilizar este programa FANTÁSTICO!
+---
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-      OBRIGADO POR USAR NOSSO SOFTWARE!
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## ⚠️ Problemas conhecidos
+
+- Em computadores muito antigos, o desempenho pode ser lento
+- Imagens muito complexas podem causar detecções imprecisas
+- Objetos visualmente semelhantes podem ser confundidos
+
+---
+
+## 🙌 Agradecimentos especiais
+
+- À equipe do **TensorFlow** pela biblioteca fantástica
+- À comunidade de IA por tornar tudo isso acessível
+- E a **VOCÊ** por usar este programa incrível!
+
+---
+
+<p align="center">
+  🎉 <strong>Obrigado por usar nosso software!</strong> 🎉  
+</p>
