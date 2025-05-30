@@ -61,13 +61,6 @@ Um ENORME agradecimento a:
 * Comunidade de IA por tornar estes modelos ACESSÍVEIS a todos
 * VOCÊ por utilizar este programa FANTÁSTICO!
 
-## CONTATO
-
-Para dúvidas, sugestões ou relatos de problemas, entre em contato:
-
-E-mail: kcoraline11@gmail.com
-Website: www.exemplo.com/detector-objetos
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
       OBRIGADO POR USAR NOSSO SOFTWARE!
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
